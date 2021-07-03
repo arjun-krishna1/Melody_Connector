@@ -1,4 +1,4 @@
-# MelodySegue
+# Melody Connector
 ## Connecting Melodies Together Using Deep Learning
 - Have two melodies in your song that you want to connect together?
 - Use this!

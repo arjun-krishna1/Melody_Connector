@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@magenta/music": "^1.22.1"
+  }
+}
